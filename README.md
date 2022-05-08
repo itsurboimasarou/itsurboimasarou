@@ -1,5 +1,5 @@
 ## Hi there 👋 it's 92thSTUDENT a.k.a masarou
- - Call me masarou or 92th, whatever you want
+Call me masarou or 92th, whatever you want
 
 ![92thSTUDENT's GitHub stats](https://github-readme-stats.vercel.app/api?username=92thSTUDENT&theme=gotham&show_icons=true)
 
@@ -27,4 +27,6 @@
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/masarou92)
 [![MoMo](https://img.shields.io/badge/MoMo-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](#)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21q5p6q5xg54r5r23vo3v2tsa&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21q5p6q5xg54r5r23vo3v2tsa&redirect=true)
+| Spotify |
+| ------- |
+| <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=21q5p6q5xg54r5r23vo3v2tsa&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true" /> |
