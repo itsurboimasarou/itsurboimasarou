@@ -2,6 +2,7 @@
 Call me masarou or 92th, whatever you want
 
 ![92thSTUDENT's GitHub stats](https://github-readme-stats.vercel.app/api?username=92thSTUDENT&theme=gotham&show_icons=true)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21q5p6q5xg54r5r23vo3v2tsa&width=150)
 
 ## 💻 Working environment
 [![Android 12](https://img.shields.io/badge/Android%2012-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-12/)
@@ -28,4 +29,4 @@ Call me masarou or 92th, whatever you want
 [![MoMo](https://img.shields.io/badge/MoMo-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](#)
 
 ## 🎧 Music & chill with me
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21q5p6q5xg54r5r23vo3v2tsa&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21q5p6q5xg54r5r23vo3v2tsa&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21q5p6q5xg54r5r23vo3v2tsa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21q5p6q5xg54r5r23vo3v2tsa&redirect=true)
