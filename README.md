@@ -4,8 +4,8 @@ Call me masarou or 92th, whatever you want
 ![92thSTUDENT's GitHub stats](https://github-readme-stats.vercel.app/api?username=92thSTUDENT&theme=gotham&show_icons=true)
 
 ## 💻 Working environment
-[![Android 12](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-12/)
-[![Windows 11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
+[![Android 12](https://img.shields.io/badge/Android%2012-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-12/)
+[![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
 [![iOS 15](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/ios-15/)
 [![Zorin OS 16](https://img.shields.io/badge/Zorin%20OS%2016-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/os/)
 
