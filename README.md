@@ -12,15 +12,15 @@
 ## 📱 Devices in use
 [![iPhone 12](https://img.shields.io/badge/iPhone%2012-a2aaad?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/jp/iphone-12/key-features/)
 [![Redmi 10C](https://img.shields.io/badge/Redmi%2010C-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/product/redmi-10c/)
-[![Raspberry Pi 4](https://img.shields.io/badge/Raspberry%20Pi%204-D32936?style=for-the-badge&logo=raspberry-pi&logoColor=white)]
+[![Raspberry Pi 4](https://img.shields.io/badge/Raspberry%20Pi%204-D32936?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 
 ## 📫 Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nhatlam.masarou/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/masarou92)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/masaroubio)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyApAEDrEzBwNdP4bDOgY4w)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/masarou.official/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/masarou92)
 
 ## 💰 Donate me
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dreamfan92)
