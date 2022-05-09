@@ -3,6 +3,12 @@ Call me masarou or 92th, whatever you want
 
 <img height="213px" src="https://github-readme-stats.vercel.app/api?username=92thSTUDENT&theme=gotham&show_icons=true&height=180" /> <img src="https://spotify-recently-played-readme.vercel.app/api?user=21q5p6q5xg54r5r23vo3v2tsa&width=300&count=3" />
 
+## 🤗 About me
+- My Vietnamese name is Lê Nhật Lâm
+- I'm 18 years old & currently a 12th grade student
+- I like Genshin Impact or VALORANT, anytime (but not now)
+- I'm currently very busy on studying for graduate & university. Btw I like everything about computer (coding, ROM buiding, etc.)
+
 ## 💻 Working environment
 [![Android 12](https://img.shields.io/badge/Android%2012-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-12/)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
