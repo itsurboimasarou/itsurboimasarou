@@ -1,7 +1,7 @@
 ## Hi there 👋 it's 92thSTUDENT a.k.a masarou
 Call me masarou or 92th, whatever you want
 
-<<img height="215px" src="https://github-readme-stats.vercel.app/api?username=92thSTUDENT&theme=gotham&show_icons=true&height=180" />
+<img height="210px" src="https://github-readme-stats.vercel.app/api?username=92thSTUDENT&theme=gotham&show_icons=true&height=180" />
 ![masarou's Spotify list](https://spotify-recently-played-readme.vercel.app/api?user=21q5p6q5xg54r5r23vo3v2tsa&width=300&count=3)
 
 ## 💻 Working environment
