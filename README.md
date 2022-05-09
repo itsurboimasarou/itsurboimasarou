@@ -12,11 +12,11 @@ Call me masarou or 92th, whatever you want
 ## 💻 Working environment
 [![Android 12](https://img.shields.io/badge/Android%2012-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-12/)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
-[![iOS 15](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/ios-15/)
+[![iOS 15](https://img.shields.io/badge/iOS%2015-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/ios-15/)
 [![Zorin OS 16](https://img.shields.io/badge/Zorin%20OS%2016-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/os/)
 
 ## 📱 Devices in use
-[![iPhone 12](https://img.shields.io/badge/iPhone%2012-a2aaad?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/jp/iphone-12/key-features/)
+[![iPhone 12](https://img.shields.io/badge/iPhone%2012-000000?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/jp/iphone-12/key-features/)
 [![Redmi 10C](https://img.shields.io/badge/Redmi%2010C-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/product/redmi-10c/)
 [![Raspberry Pi 4](https://img.shields.io/badge/Raspberry%20Pi%204-D32936?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 
