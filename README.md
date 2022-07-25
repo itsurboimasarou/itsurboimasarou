@@ -1,13 +1,12 @@
-## Hi there 👋 it's 92thSTUDENT a.k.a masarou
+## Hi there 👋 it's your boi, masarou here
 Call me masarou or 92th, whatever you want
 
-<img height="213px" src="https://github-readme-stats.vercel.app/api?username=92thSTUDENT&theme=gotham&show_icons=true&height=180" /> <img src="https://spotify-recently-played-readme.vercel.app/api?user=21q5p6q5xg54r5r23vo3v2tsa&width=300&count=3" />
+<img height="213px" src="https://github-readme-stats.vercel.app/api?username=itsurboimasarou&theme=gotham&show_icons=true&height=180" /> <img src="https://spotify-recently-played-readme.vercel.app/api?user=21q5p6q5xg54r5r23vo3v2tsa&width=300&count=3" />
 
 ## 🤗 About me
 - My Vietnamese name is Lê Nhật Lâm
 - I'm 18 years old & currently a 12th grade student
-- I like Genshin Impact or VALORANT, anytime (but not now)
-- I'm currently very busy on studying for graduate & university. Btw I like everything about computer (coding, ROM buiding, etc.)
+- I like Genshin Impact or VALORANT, anytime.
 
 ## 💻 Working environment
 [![Android 12](https://img.shields.io/badge/Android%2012-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-12/)
@@ -16,8 +15,7 @@ Call me masarou or 92th, whatever you want
 [![Zorin OS 16](https://img.shields.io/badge/Zorin%20OS%2016-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/os/)
 
 ## 📱 Devices in use
-[![iPhone 12](https://img.shields.io/badge/iPhone%2012-000000?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/jp/iphone-12/key-features/)
-[![Redmi 10C](https://img.shields.io/badge/Redmi%2010C-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/product/redmi-10c/)
+[![Redmi K30 5G](https://img.shields.io/badge/Redmi%2010C-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/product/redmi-10c/)
 [![Raspberry Pi 4](https://img.shields.io/badge/Raspberry%20Pi%204-D32936?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 
 ## 📫 Connect with me
