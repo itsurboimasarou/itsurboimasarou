@@ -1,22 +1,26 @@
-## Hi there 👋 it's your boi, masarou here
-Call me masarou or 92th, whatever you want
+## 👋 Here is your boi, masarou here!
 
 <img height="213px" src="https://github-readme-stats.vercel.app/api?username=itsurboimasarou&theme=gotham&show_icons=true&height=180" /> <img src="https://spotify-recently-played-readme.vercel.app/api?user=21q5p6q5xg54r5r23vo3v2tsa&width=300&count=3" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsurboimasarou&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤗 About me
-- My Vietnamese name is Lê Nhật Lâm
-- I'm 18 years old & currently a 12th grade student
-- I like Genshin Impact or VALORANT, anytime.
+- I'm 18 years old & currently a university student
+- Playing Genshin Impact at anytime.
+- Learning building Android every day.
 
 ## 💻 Working environment
-[![Android 12](https://img.shields.io/badge/Android%2012-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-12/)
-[![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
-[![iOS 15](https://img.shields.io/badge/iOS%2015-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/ios-15/)
-[![Zorin OS 16](https://img.shields.io/badge/Zorin%20OS%2016-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/os/)
+[![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
+[![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
+[![Linux Mint 21](https://img.shields.io/badge/Linux_Mint_21-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
+
+## 🖥 PC specs
+[![NVIDIA GeForce GTX 1050 Ti](https://img.shields.io/badge/NVIDIA-GeFore_GTX_1050_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
+[![Intel Core i5-8400](https://img.shields.io/badge/Intel-Core_i5--8400-0071C5?style=for-the-badge&logo=intel&logoColor=white)]()
 
 ## 📱 Devices in use
-[![Redmi K30 5G](https://img.shields.io/badge/Redmi%2010C-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/product/redmi-10c/)
-[![Raspberry Pi 4](https://img.shields.io/badge/Raspberry%20Pi%204-D32936?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
+[![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
+[![Redmi K30 5G](https://img.shields.io/badge/Redmi_K30_5G-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik30-5g)
+[![Raspberry Pi 4](https://img.shields.io/badge/Raspberry_Pi_4-D32936?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 
 ## 📫 Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nhatlam.masarou/)
