@@ -2,7 +2,7 @@
 
 
 <img height="213px" src="https://github-readme-stats.vercel.app/api?username=itsurboimasarou&theme=merko&show_icons=true&height=180" /> <img src="https://spotify-recently-played-readme.vercel.app/api?user=21q5p6q5xg54r5r23vo3v2tsa&width=300&count=3" />
-<img height="190px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsurboimasarou&theme=2077" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsurboimasarou&layout=compact&theme=merko")
+<img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsurboimasarou&theme=2077" /> <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsurboimasarou&layout=compact&theme=merko" />
 
 ## 🤗 About me
 - I'm 18 years old & currently a university student
