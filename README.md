@@ -8,6 +8,7 @@
 - I'm 18 years old & currently a university student
 - Playing Genshin Impact at anytime.
 - Learning building Android every day.
+- Currently maintaining @Project-Kaleidoscope on Redmi K40S (but unofficially)
 
 ## 💻 Working environment
 [![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
@@ -15,8 +16,8 @@
 [![Linux Mint 21](https://img.shields.io/badge/Linux_Mint_21-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
 
 ## 🖥 PC specs
-[![NVIDIA GeForce GTX 1050 Ti](https://img.shields.io/badge/NVIDIA-GeFore_GTX_1050_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
-[![Intel Core i5-8400](https://img.shields.io/badge/Intel-Core_i5--8400-0071C5?style=for-the-badge&logo=intel&logoColor=white)]()
+[![NVIDIA GeForce RTX 3050](https://img.shields.io/badge/NVIDIA-GeFore_GTX_1050_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3050/)
+[![Intel Core i5-12400F](https://img.shields.io/badge/Intel-Core_i5--8400-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://ark.intel.com/content/www/us/en/ark/products/134587/intel-core-i512400f-processor-18m-cache-up-to-4-40-ghz.html)
 
 ## 📱 Devices in use
 [![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
