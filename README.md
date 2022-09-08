@@ -8,7 +8,7 @@
 - I'm 18 years old & currently a university student
 - Playing Genshin Impact at anytime.
 - Learning building Android every day.
-- Currently maintaining @Project-Kaleidoscope on Redmi K40S (but unofficially)
+- Currently maintaining @Project-Elixir on Redmi K40S
 
 ## 💻 Working environment
 [![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
