@@ -8,12 +8,12 @@
 - I'm 18 years old & currently a university student
 - Playing Genshin Impact at anytime.
 - Learning building Android every day.
-- Currently maintaining [origamiOS](https://github.com/origamiOSprjkt) on Redmi K40S & Redmi K30 5G
+- Currently maintaining [origamiOS](https://github.com/origamiOSprjkt) on Redmi K40S
 
 ## 💻 Working environment
 [![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
 [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
-[![Linux Mint 21](https://img.shields.io/badge/Linux_Mint_21-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
+[![Fedora 36](https://img.shields.io/badge/Fedora_36_Workstation-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/en)
 
 ## 🖥 PC specs
 [![NVIDIA GeForce RTX 3050](https://img.shields.io/badge/NVIDIA-GeFore_RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3050/)
@@ -21,7 +21,7 @@
 
 ## 📱 Devices in use
 [![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
-[![Redmi K30 5G](https://img.shields.io/badge/Redmi_K30_5G-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik30-5g)
+[![iPhone SE 2016](https://img.shields.io/badge/iPhone_SE_2016-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.gsmarena.com/apple_iphone_se-7969.php)
 [![Raspberry Pi 4](https://img.shields.io/badge/Raspberry_Pi_4-D32936?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 
 ## 📫 Connect with me
