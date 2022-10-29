@@ -22,6 +22,7 @@
 ## 📱 Devices in use
 [![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
 [![iPhone SE 2016](https://img.shields.io/badge/iPhone_SE_2016-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.gsmarena.com/apple_iphone_se-7969.php)
+[![Nokia 2.1](https://img.shields.io/badge/Nokia_2.1-0000CC?style=for-the-badge&logo=nokia&logoColor=white)](#)
 [![Raspberry Pi 4](https://img.shields.io/badge/Raspberry_Pi_4-D32936?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 
 ## 📫 Connect with me
