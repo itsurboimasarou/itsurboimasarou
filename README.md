@@ -8,7 +8,7 @@
 - I'm 18 years old & currently a university student
 - Playing Genshin Impact at anytime.
 - Learning building Android every day.
-- Currently maintaining [origamiOS](https://github.com/origamiOSprjkt) on Redmi K40S
+- Currently maintaining [PixelOS](https://github.com/PixelOS-AOSP) & [origamiOS](https://github.com/origamiOSprjkt) on Redmi K40S
 
 ## 💻 Working environment
 [![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
