@@ -1,17 +1,13 @@
-## 👋 Here is your boi, masarou here!
+## 👋 Hi there!
 
-<p align="center">
-  <img height="213px" src="https://github-readme-stats.vercel.app/api?username=itsurboimasarou&theme=merko&show_icons=true&height=190" />
-  <br>
-  <img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsurboimasarou&theme=2077" />
-  <br>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=itsurboimasarou&theme=merko&show_icons=true&count_private=true" align="center" style="width: 100%" />
+<br>
+
 
 ## 🤗 About me
-- I'm 18 years old & currently a university student
-- Playing Genshin Impact at anytime.
-- Learning building Android every day.
-- Currently maintaining [PixelOS](https://github.com/PixelOS-AOSP) on Redmi K40S & Redmi K30 5G (with @EndCredits)
+<p>
+I'm 18 years old & currently a first year Information Technology student at Hoa Sen University. I like play Genshin Impact at anytime. Currently maintaining <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S & Redmi K30 5G (with @EndCredits)
+</p>
 
 ## 💻 Working environment
 [![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
