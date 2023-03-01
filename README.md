@@ -1,18 +1,12 @@
 ## 👋 Hi there!
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsurboimasarou&theme=merko&show_icons=true&count_private=true" align="center" style="width: 100%" />
-<br>
-
-
-## 🤗 About me
 <p>
-I'm 18 years old & currently a first year Information Technology student at Hoa Sen University. I like play Genshin Impact at anytime. Currently maintaining <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S & Redmi K30 5G (with @EndCredits)
+I'm 18 years old & currently a first year Information Technology student at Hoa Sen University. I like play Genshin Impact at anytime. Currently maintaining <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S
 </p>
 
 ## 💻 Working environment
 [![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
 [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 
 ## 🖥 PC specs
 [![NVIDIA GeForce RTX 3060](https://img.shields.io/badge/NVIDIA-GeFore_RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3060-3060ti/)
