@@ -1,10 +1,10 @@
 ## 👋 Hi there. It's your boi, masarou here!
 
 - I'm 18 years old & currently a first year Information Technology student at Hoa Sen University. 
-- I'm currently maintaining <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S
+- Has retired <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S because of time for personal things
 - Playing Genshin Impact (for fun)
 - Known programming languages: C, C++, Python 3, Java, HTML5, Bash, CSS, JavaScript, PHP
-- On learning Japanese
+- On learning Japanese & Indonesian
 
 ### ⚙️ GitHub stats
 <p align="left">
@@ -27,7 +27,7 @@
 
 ### 📱 Devices in use
 [![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
-[![iPad Mini 2](https://img.shields.io/badge/ipad_mini_2-000000?style=for-the-badge&logo=apple&logoColor=white)](#)
+[![OnePlus Ace Pro](https://img.shields.io/badge/OnePlus_Ace_Pro-EE0000?style=for-the-badge&logo=oneplus&logoColor=white)](https://www.oneplus.com/cn/ace-pro)
 [![Raspberry Pi 4](https://img.shields.io/badge/Raspberry_Pi_4-D32936?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 
 ### 📫 Connect with me
