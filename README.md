@@ -2,6 +2,7 @@
 
 - I'm 18 years old & currently a first year Information Technology student at Hoa Sen University. 
 - Has retired <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S because of time for personal things
+- Learning about Linux kernel
 - Playing Genshin Impact (for fun)
 - Known programming languages: C, C++, Python 3, Java, HTML5, Bash, CSS, JavaScript, PHP
 - On learning Japanese & Indonesian
@@ -19,7 +20,7 @@
 [![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
 [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
 [![Debian GNU 11.6 WSL](https://img.shields.io/badge/Debian_11.6-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://wiki.debian.org/InstallingDebianOn/Microsoft/Windows/SubsystemForLinux)
-[![iPad OS 12.5.7](https://img.shields.io/badge/iPadOS_12.5.7-000000?style=for-the-badge&logo=apple&logoColor=white)](#)
+
 
 ### 🖥 PC specs
 [![NVIDIA GeForce RTX 3060](https://img.shields.io/badge/NVIDIA-GeFore_RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3060-3060ti/)
