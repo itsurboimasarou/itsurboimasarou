@@ -14,17 +14,16 @@
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakroy2002&layout=compact&langs_count=8&theme=tokyonight"/>
   
 </p>
-<br/>
 
 ### 💻 Working environment
 [![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
 [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
-[![Debian GNU 11.6 WSL](https://img.shields.io/badge/Debian_11.6-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://wiki.debian.org/InstallingDebianOn/Microsoft/Windows/SubsystemForLinux)
-
+[![Ubuntu 22.04 LTS WSL2](https://img.shields.io/badge/Ubuntu_22.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10)
 
 ### 🖥 PC specs
 [![NVIDIA GeForce RTX 3060](https://img.shields.io/badge/NVIDIA-GeFore_RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3060-3060ti/)
 [![Intel Core i5-12400F](https://img.shields.io/badge/Intel-Core_i5_12400F-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.vn/content/www/vn/vi/products/sku/134587/intel-core-i512400f-processor-18m-cache-up-to-4-40-ghz/specifications.html)
+[![Lenovo ThinkPad T14 Gen 2](https://img.shields.io/badge/Lenovo_ThinkPad_T14_Gen_2-EE0000?style=for-the-badge&logo=lenovo&logoColor=white)]()
 
 ### 📱 Devices in use
 [![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
