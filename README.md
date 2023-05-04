@@ -2,7 +2,7 @@
 
 - I'm 18 years old & currently a first year Information Technology student at Hoa Sen University
 - Maintaining <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S
-- Learning about Linux kernel
+- A noobie learning about Linux kernel
 - Playing Genshin Impact (mostly) & Honkai: Star Rail (for fun)
 - Known programming languages: C, C++, Python 3, Java, HTML5, Bash, CSS, JavaScript, PHP, XML
 - On learning Japanese (mostly) & Indonesian (a bit)
