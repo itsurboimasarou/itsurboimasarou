@@ -1,11 +1,12 @@
 ## 👋 Hi there. It's your boi, masarou here!
 
-- I'm 18 years old & currently a first year Information Technology student at Hoa Sen University
-- Maintaining <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S
-- A noobie learning about Linux kernel
-- Playing Genshin Impact (mostly) & Honkai: Star Rail (for fun)
-- Known programming languages: C, C++, Python 3, Java, HTML5, Bash, CSS, JavaScript, PHP, XML
-- On learning Japanese (mostly) & Indonesian (a bit)
+- Studying 🏢: Currently a first year Information Technology student at Hoa Sen University
+- Current job 🧑‍🍳: Part-time kitchen staff (on afternoon mostly)
+- Project working 🧑‍💻: Maintaining <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S
+- Ongoing 🌱: A noobie learning about Linux kernel
+- Games playing 🕹️: Genshin Impact (mostly) & Honkai: Star Rail (for fun)
+- Known programming languages 🌟: C, C++, Python 3, Java, HTML5, Bash, CSS, JavaScript, PHP, XML
+- Languages 🌍: On learning Japanese (mostly) & Indonesian (a bit)
 
 ### ⚙️ GitHub stats
 <p align="left">
@@ -23,10 +24,10 @@
 ### 🖥 PC specs
 [![NVIDIA GeForce RTX 3060](https://img.shields.io/badge/NVIDIA-GeFore_RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3060-3060ti/)
 [![Intel Core i5-12400F](https://img.shields.io/badge/Intel-Core_i5_12400F-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.vn/content/www/vn/vi/products/sku/134587/intel-core-i512400f-processor-18m-cache-up-to-4-40-ghz/specifications.html)
-[![Lenovo ThinkPad T14 Gen 2](https://img.shields.io/badge/Lenovo_ThinkPad_T14_Gen_2-EE0000?style=for-the-badge&logo=lenovo&logoColor=white)](#)
+[![Lenovo ThinkPad P14s Gen 2](https://img.shields.io/badge/Lenovo_ThinkPad_P14s_Gen_2-EE0000?style=for-the-badge&logo=lenovo&logoColor=white)](#)
 
 ### 📱 Devices in use
-[![Xiaomi Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
+[![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
 [![Pixel 7a](https://img.shields.io/badge/Google_Pixel_7a-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://store.google.com/us/product/pixel_7?hl=en-US)
 [![Raspberry Pi 4](https://img.shields.io/badge/Raspberry_Pi_4-D32936?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 
