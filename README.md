@@ -22,22 +22,18 @@
 [![Ubuntu 22.04 LTS WSL2](https://img.shields.io/badge/Ubuntu_22.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10)
 
 ### 🖥 PC specs
-[![NVIDIA GeForce RTX 3060](https://img.shields.io/badge/NVIDIA-GeFore_RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3060-3060ti/)
-[![Intel Core i5-12400F](https://img.shields.io/badge/Intel-Core_i5_12400F-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.vn/content/www/vn/vi/products/sku/134587/intel-core-i512400f-processor-18m-cache-up-to-4-40-ghz/specifications.html)
-[![Lenovo ThinkPad P14s Gen 2](https://img.shields.io/badge/Lenovo_ThinkPad_P14s_Gen_2-EE0000?style=for-the-badge&logo=lenovo&logoColor=white)](#)
+[![NVIDIA GeForce RTX 3050](https://img.shields.io/badge/NVIDIA-GeFore_RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3050/)
+[![AMD Ryzen 5 5600](https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/en/products/cpu/amd-ryzen-5-5600)
+[![ROG Zephyrus G14 2021](https://img.shields.io/badge/ROG_Zephyrus_G14_2021-000?style=for-the-badge&logo=republicofgamers&logoColor=red)](#)
 
 ### 📱 Devices in use
 [![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
-[![Pixel 7a](https://img.shields.io/badge/Google_Pixel_7a-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://store.google.com/us/product/pixel_7?hl=en-US)
 [![Raspberry Pi 4](https://img.shields.io/badge/Raspberry_Pi_4-D32936?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 
 ### 📫 Connect with me
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nhatlam.masarou/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/masarou92)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/masarou92)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@masarou92)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/masarou.official/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/masarou92)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karizaki.92/)
 
 ### 💰 Donate me
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dreamfan92)
