@@ -1,10 +1,10 @@
 ## 👋 Hi there. It's your boi, masarou here!
 
 - Studying 🏢: Currently a first year Information Technology student at Hoa Sen University
-- Current job 🧑‍🍳: Part-time kitchen staff (on afternoon mostly)
-- Project working 🧑‍💻: Maintaining <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S
+- Current job: None
+- Project working 🧑‍💻: Has been maintaining <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S
 - Ongoing 🌱: A noobie learning about Linux kernel
-- Games playing 🕹️: Genshin Impact (mostly) & Honkai: Star Rail (for fun)
+- Game playing 🕹️: Genshin Impact
 - Known programming languages 🌟: C, C++, Python 3, Java, HTML5, Bash, CSS, JavaScript, PHP, XML
 - Languages 🌍: On learning Japanese (mostly) & Indonesian (a bit)
 
