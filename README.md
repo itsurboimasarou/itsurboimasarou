@@ -1,12 +1,12 @@
 ## 👋 Hi there. It's your boi, masarou here!
 
-- Studying 🏢: Currently a first year Information Technology student at Hoa Sen University
+- Studying 🏢: Currently a second year Information Technology student at Hoa Sen University
 - Current job 💼: None
 - Project working 🧑‍💻: Has been maintaining <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S
 - Ongoing 🌱: A noobie learning about Linux kernel
-- Game playing 🕹️: Genshin Impact, Valorant, Roblox (except some horror games like The Mimic or Phasmophobia)
+- Game playing 🕹️: Genshin Impact, Valorant, Honkai: Star Rail
 - Known programming languages 🌟: C, C++, Python 3, Java, HTML5, Bash, CSS, JavaScript, PHP, XML
-- Languages 🌍: On learning Japanese (mostly) & Indonesian (a bit)
+- Languages 🌍: On learning Japanese (mostly) & Indonesian (a bit, but not now)
 
 ### ⚙️ GitHub stats
 <p align="left">
@@ -16,21 +16,25 @@
   
 </p>
 
-### 💻 Working environment
+### 💻 Alienware m15 R7 (AMD)
+- CPU: [AMD Ryzen 7 6800H](https://www.amd.com/en/products/apu/amd-ryzen-7-6800h) (8 cores 16 threads, @ 3.2GHz, up to 4.8GHz, 16MB)
+- GPU: [NVIDIA GeForce RTX 3050Ti](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3050/)
+- RAM: 16GB (2 x 8GB) DDR5 4800MHz
+- SSD: sk.hynix 512GB M.2 NVMe PCIe 4.0 SSD + Samsung 980 1TB M.2 NVMe PCIe 3.0 SSD
+- Display: 16:9, 1920 x 1080, 1080p FHD, 165Hz, 3ms
+
+### 💻 Working environments
 [![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
 [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
-[![Ubuntu 22.04 LTS WSL2](https://img.shields.io/badge/Ubuntu_22.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10)
-
-### 🖥 PC specs
-[![NVIDIA GeForce RTX 3050](https://img.shields.io/badge/NVIDIA-GeFore_RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3050/)
-[![AMD Ryzen 5 5600](https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/en/products/cpu/amd-ryzen-5-5600)
-[![ROG Zephyrus G14 2021](https://img.shields.io/badge/ROG_Zephyrus_G14_2021-000?style=for-the-badge&logo=republicofgamers&logoColor=red)](#)
+[![Ubuntu 22.04 LTS](https://img.shields.io/badge/Ubuntu_22.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668)
 
 ### 📱 Devices in use
 [![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
-[![Raspberry Pi 4](https://img.shields.io/badge/Raspberry_Pi_4-D32936?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
+[![Nokia 2.1](https://img.shields.io/badge/Nokia_2.1-003399?style=for-the-badge&logo=nokia&logoColor=white)](#)
 
 ### 📫 Connect with me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/masarou.nhatlam.92)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/masarou92)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/masarou92)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@masarou92)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karizaki.92/)
