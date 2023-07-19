@@ -2,7 +2,7 @@
 
 - Studying 🏢: Currently a second year Information Technology student at Hoa Sen University
 - Current job 💼: None
-- Project working 🧑‍💻: Has been maintaining <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S
+- Project working 🧑‍💻: Currently maintaining <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S
 - Ongoing 🌱: A noobie learning about Linux kernel
 - Game playing 🕹️: Genshin Impact, Valorant, Honkai: Star Rail
 - Known programming languages 🌟: C, C++, Python 3, Java, HTML5, Bash, CSS, JavaScript, PHP, XML
