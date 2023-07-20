@@ -16,21 +16,25 @@
   
 </p>
 
-### 💻 Alienware m15 R7 (AMD)
+---------------------------------------------------------------------------------------
+### 🖥️ Current working things:
+#### 💻 Laptop: Alienware m15 R7 (AMD)
 - CPU: [AMD Ryzen 7 6800H](https://www.amd.com/en/products/apu/amd-ryzen-7-6800h) (8 cores 16 threads, @ 3.2GHz, up to 4.8GHz, 16MB)
 - GPU: [NVIDIA GeForce RTX 3050Ti](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3050/)
 - RAM: 16GB (2 x 8GB) DDR5 4800MHz
 - SSD: sk.hynix 512GB M.2 NVMe PCIe 4.0 SSD + Samsung 980 1TB M.2 NVMe PCIe 3.0 SSD
 - Display: 16:9, 1920 x 1080, 1080p FHD, 165Hz, 3ms
 
-### 💻 Working environments
+#### 💻 Working environments
 [![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
 [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
 [![Ubuntu 22.04 LTS](https://img.shields.io/badge/Ubuntu_22.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668)
 
-### 📱 Devices in use
+#### 📱 Devices in use
 [![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
 [![Nokia 2.1](https://img.shields.io/badge/Nokia_2.1-003399?style=for-the-badge&logo=nokia&logoColor=white)](#)
+
+---------------------------------------------------------------------------------------
 
 ### 📫 Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/masarou.nhatlam.92)
