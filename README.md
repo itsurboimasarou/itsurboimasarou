@@ -18,12 +18,12 @@
 
 ---------------------------------------------------------------------------------------
 ### 🖥️ Current working things:
-#### 💻 Laptop: Alienware m15 R7 (AMD)
-- CPU: [AMD Ryzen 7 6800H](https://www.amd.com/en/products/apu/amd-ryzen-7-6800h) (8 cores 16 threads, @ 3.2GHz, up to 4.8GHz, 16MB)
-- GPU: [NVIDIA GeForce RTX 3050Ti](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3050/) (Ampere GN20-P1, 4GB GDDR6, 128 Bit)
-- RAM: 16GB (2 x 8GB) DDR5 4800MHz
-- SSD: sk.hynix 512GB M.2 NVMe PCIe 4.0 SSD + Samsung 980 1TB M.2 NVMe PCIe 3.0 SSD
-- Display: 16:9, 1920 x 1080, 1080p FHD, 165Hz, 3ms
+#### 💻 Laptop: Dell Inspiron 14 Plus 7420
+- CPU: [Intel Core i7-12700H](https://ark.intel.com/content/www/us/en/ark/products/132228/intel-core-i712700h-processor-24m-cache-up-to-4-70-ghz.html) (14 cores 20 threads, @ 3.5GHz, up to 4.7GHz, 24MB)
+- GPU: [NVIDIA GeForce RTX 3050 (Mobile)](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3050/) (Ampere GN20-P0, 4GB GDDR6, 128 Bit)
+- RAM: 16GB (8GB integrated + 8GB SO-DIMM) DDR5 4800MHz
+- SSD: Kioxia 512GB M.2 NVMe PCIe 3.0 SSD
+- Display: 16:10, 2.2K 2240x1400, 300 nits, 60Hz
 
 #### 💻 Working environments
 [![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
