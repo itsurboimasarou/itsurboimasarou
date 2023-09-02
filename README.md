@@ -2,9 +2,9 @@
 
 - Studying 🏢: Currently a second year Information Technology student at Hoa Sen University
 - Current job 💼: None
-- Project working 🧑‍💻: Currently maintaining <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S & <a href="https://github.com/origamiOS-AOSP">origamiOS</a>
+- Project working 🧑‍💻: Previously maintaining <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S & now retired
 - Ongoing 🌱: A noobie learning about Linux kernel
-- Game playing 🕹️: Genshin Impact, Valorant, Honkai: Star Rail
+- Game playing 🕹️: Genshin Impact, <s>Valorant, Honkai: Star Rail</s> not anymore
 - Known programming languages 🌟: C, C++, Python 3, Java, HTML5, Bash, CSS, JavaScript, PHP, XML
 - Languages 🌍: On learning Japanese (mostly) & Indonesian (a bit, but not now)
 
@@ -18,12 +18,12 @@
 
 ---------------------------------------------------------------------------------------
 ### 🖥️ Current working things:
-#### 💻 Laptop: Dell Inspiron 14 Plus 7420
-- CPU: [Intel Core i7-12700H](https://ark.intel.com/content/www/us/en/ark/products/132228/intel-core-i712700h-processor-24m-cache-up-to-4-70-ghz.html) (14 cores 20 threads, @ 3.5GHz, up to 4.7GHz, 24MB)
-- GPU: [NVIDIA GeForce RTX 3050 (Mobile)](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3050/) (Ampere GN20-P0, 4GB GDDR6, 128 Bit)
+#### 💻 Laptop: ASUS ROG Zephyrus G15 2022 (GA503RM-M006B0)
+- APU: [AMD Ryzen 9 6900HS](https://www.amd.com/en/products/apu/amd-ryzen-9-6900hs) (8 cores 16 threads, @ 3.3GHz, up to 4.9GHz, 16MB)
+- GPU: [NVIDIA GeForce RTX 3060 (Mobile)](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3060-3060ti/) (Ampere GN20-E3, 6GB GDDR6, 192 Bit)
 - RAM: 16GB (8GB integrated + 8GB SO-DIMM) DDR5 4800MHz
-- SSD: Kioxia 512GB M.2 NVMe PCIe 3.0 SSD
-- Display: 16:10, 2.2K 2240x1400, 300 nits, 60Hz
+- SSD: 512GB M.2 NVMe PCIe 4.0 SSD
+- Display: 16:9, 2K 2560 x 1440, 300 nits, 165Hz, DCI-P3 100%
 
 #### 💻 Working environments
 [![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
