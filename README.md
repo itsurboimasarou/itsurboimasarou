@@ -6,7 +6,7 @@
 - Ongoing 🌱: A noobie learning about Linux kernel
 - Game playing 🕹️: Genshin Impact, <s>Valorant, Honkai: Star Rail</s> not anymore
 - Known programming languages 🌟: C, C++, Python 3, Java, HTML5, Bash, CSS, JavaScript, PHP, XML
-- Languages 🌍: On learning Japanese (mostly) & Indonesian (a bit, but not now)
+- Languages 🌍: Vietnamese (mother lang), on learning Japanese (mostly) & Indonesian (a bit, but not now)
 
 ### ⚙️ GitHub stats
 <p align="left">
@@ -18,17 +18,16 @@
 
 ---------------------------------------------------------------------------------------
 ### 🖥️ Current working things:
-#### 💻 Laptop: ASUS ROG Zephyrus G15 2022 (GA503RM-M006B0)
-- APU: [AMD Ryzen 9 6900HS](https://www.amd.com/en/products/apu/amd-ryzen-9-6900hs) (8 cores 16 threads, @ 3.3GHz, up to 4.9GHz, 16MB)
-- GPU: [NVIDIA GeForce RTX 3060 (Mobile)](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3060-3060ti/) (Ampere GN20-E3, 6GB GDDR6, 192 Bit)
+#### 💻 Laptop: ASUS ROG Zephyrus G14 2022 (GA402RJ)
+- APU: [AMD Ryzen 7 6800HS](https://www.amd.com/en/products/apu/amd-ryzen-7-6800hs) (8 cores 16 threads, @ 3.2GHz, up to 4.7GHz, 16MB)
+- GPU: [AMD Radeon RX 6700S](https://www.amd.com/en/products/graphics/amd-radeon-rx-6700s) (Navi 22 - RDNA2, 8GB GDDR6, 128 Bit)
 - RAM: 16GB (8GB integrated + 8GB SO-DIMM) DDR5 4800MHz
 - SSD: 512GB M.2 NVMe PCIe 4.0 SSD
-- Display: 16:9, 2K 2560 x 1440, 300 nits, 165Hz, DCI-P3 100%
+- Display: 16:10, 2K+ 2560 x 1600, 500 nits, 120Hz, DCI-P3 100%
 
 #### 💻 Working environments
 [![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
 [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
-[![Ubuntu 22.04 LTS](https://img.shields.io/badge/Ubuntu_22.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668)
 
 #### 📱 Devices in use
 [![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
@@ -41,7 +40,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/masarou92)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/masarou92)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@masarou92)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karizaki.92/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/masarou.official/)
 
 ### 💰 Donate me
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dreamfan92)
