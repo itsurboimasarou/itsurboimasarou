@@ -18,7 +18,7 @@
 
 ---------------------------------------------------------------------------------------
 ### 🖥️ Current working things:
-#### 💻 Laptop: ASUS ROG Zephyrus G14 2022 (GA402RJ)
+#### 💻 Laptop: [ASUS ROG Zephyrus G14 2022 (GA402RJ)](https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g14-2022-series/)
 - APU: [AMD Ryzen 7 6800HS](https://www.amd.com/en/products/apu/amd-ryzen-7-6800hs) (8 cores 16 threads, @ 3.2GHz, up to 4.7GHz, 16MB)
 - GPU: [AMD Radeon RX 6700S](https://www.amd.com/en/products/graphics/amd-radeon-rx-6700s) (Navi 22 - RDNA2, 8GB GDDR6, 128 Bit)
 - RAM: 16GB (8GB integrated + 8GB SO-DIMM) DDR5 4800MHz
