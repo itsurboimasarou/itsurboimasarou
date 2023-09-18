@@ -18,12 +18,12 @@
 
 ---------------------------------------------------------------------------------------
 ### 🖥️ Current working things:
-#### 💻 Laptop: -
-- CPU/APU: - (-)
-- GPU: -
-- RAM: - DDR
-- SSD: -
-- Display: -
+#### 💻 Laptop: [ROG Zephyrus G15 2022 (GA503R)](https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g15-2022-series/)
+- APU: [AMD Ryzen 9 6900HS](https://www.amd.com/en/products/apu/amd-ryzen-9-6900hs) (8 cores 16 threads, 16MB L3 cache, @ 3.3GHz, up to 4.9 GHz)
+- GPU: [NVIDIA GeForce RTX 3060](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3060-3060ti) (Ampere GN20-E3, Max-P, 192 Bit)
+- RAM: 16GB (2 x 8GB) DDR5, 4800 MHz
+- SSD: 512GB M.2 NVMe PCIe Gen4
+- Display: 15.6", 16:9, 2K (2560 x 1440), 165Hz, 300 nits
 
 #### 💻 Working environments
 [![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
