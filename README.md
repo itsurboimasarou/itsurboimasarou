@@ -18,12 +18,12 @@
 
 ---------------------------------------------------------------------------------------
 ### 🖥️ Current working things:
-#### 💻 Laptop: [ASUS ROG Zephyrus G14 2022 (GA402RJ)](https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g14-2022-series/)
-- APU: [AMD Ryzen 7 6800HS](https://www.amd.com/en/products/apu/amd-ryzen-7-6800hs) (8 cores 16 threads, @ 3.2GHz, up to 4.7GHz, 16MB)
-- GPU: [AMD Radeon RX 6700S](https://www.amd.com/en/products/graphics/amd-radeon-rx-6700s) (Navi 22 - RDNA2, 8GB GDDR6, 128 Bit)
-- RAM: 16GB (8GB integrated + 8GB SO-DIMM) DDR5 4800MHz
-- SSD: 512GB M.2 NVMe PCIe 4.0 SSD
-- Display: 16:10, 2K+ 2560 x 1600, 500 nits, 120Hz, DCI-P3 100%
+#### 💻 Laptop: -
+- CPU/APU: - (-)
+- GPU: -
+- RAM: - DDR
+- SSD: -
+- Display: -
 
 #### 💻 Working environments
 [![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
