@@ -1,7 +1,7 @@
 ## 👋 Hi there. It's your boi, masarou here!
 
 - Studying 🏢: Currently a second year Information Technology student at Hoa Sen University
-- Current job 💼: None
+- Current job 💼: Part-time cosplayer, reviewer (upcoming)
 - Project working 🧑‍💻: Previously maintained <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S & now retired
 - Ongoing 🌱: A noobie learning about Linux kernel
 - Game playing 🕹️: Genshin Impact, <s>Valorant, Honkai: Star Rail</s> not anymore
