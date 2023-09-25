@@ -4,7 +4,7 @@
 - Current job 💼: Part-time cosplayer, reviewer (upcoming)
 - Project working 🧑‍💻: Previously maintained <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S & now retired
 - Ongoing 🌱: A noobie learning about Linux kernel
-- Game playing 🕹️: Genshin Impact, <s>Valorant, Honkai: Star Rail</s> not anymore
+- Game playing 🕹️: Genshin Impact, Valorant, <s>Honkai: Star Rail</s> not anymore
 - Known programming languages 🌟: C, C++, Python 3, Java, HTML5, Bash, CSS, JavaScript, PHP, XML
 - Languages 🌍: Vietnamese (mother lang), on learning Japanese (mostly) & Indonesian (a bit, but not now)
 
@@ -46,6 +46,3 @@
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dreamfan92)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/masarou92)
 [![MoMo](https://img.shields.io/badge/MoMo-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://me.momo.vn/j8Iyubs6sVT2C3iRIXUW)
-
-### 🎧 Music & chill with me
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21q5p6q5xg54r5r23vo3v2tsa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21q5p6q5xg54r5r23vo3v2tsa&redirect=true)
