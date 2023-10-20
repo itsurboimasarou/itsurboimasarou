@@ -26,12 +26,13 @@
 - Display: 15.6", 16:9, 2K (2560 x 1440), 165Hz, DCI-P3 100%, 300 nits
 
 #### 💻 Working environments
-[![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)
+[![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13)
 [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
+[![Ubuntu 23.10](https://img.shields.io/badge/Ubuntu_23.10-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/mantic)
 
 #### 📱 Devices in use
 [![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
-[![Nokia 2.1](https://img.shields.io/badge/Nokia_2.1-003399?style=for-the-badge&logo=nokia&logoColor=white)](#)
+[![ROG Phone 7 Ultimate](https://img.shields.io/badge/ROG_Phone_7_Ultimate-FF0000?style=for-the-badge&logo=republicofgamers&logoColor=white)](https://rog.asus.com/us/phones/rog-phone-7-ultimate)
 
 ---------------------------------------------------------------------------------------
 
