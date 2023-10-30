@@ -2,11 +2,11 @@
 
 - Studying 🏢: Currently a second year Information Technology student at Hoa Sen University
 - Current job 💼: Part-time cosplayer, reviewer (upcoming)
-- Project working 🧑‍💻: Previously maintained <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S & now retired
+- Project working 🧑‍💻: Currently maintain <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S
 - Ongoing 🌱: A noobie learning about Linux kernel
-- Game playing 🕹️: Genshin Impact, Valorant, <s>Honkai: Star Rail</s> not anymore
+- Game playing 🕹️: Genshin Impact, Honkai: Star Rail, <s>Valorant</s> not anymore
 - Known programming languages 🌟: C, C++, Python 3, Java, HTML5, Bash, CSS, JavaScript, PHP, XML
-- Languages 🌍: Vietnamese (mother lang), on learning Japanese (mostly) & Indonesian (a bit, but not now)
+- Languages 🌍: Vietnamese (mother lang) & English, on learning Japanese (mostly) & Indonesian (a bit, but not now)
 
 ### ⚙️ GitHub stats
 <p align="left">
@@ -18,12 +18,12 @@
 
 ---------------------------------------------------------------------------------------
 ### 🖥️ Current working things:
-#### 💻 Laptop: [ROG Zephyrus G15 2022 (GA503R)](https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g15-2022-series/)
-- APU: [AMD Ryzen 9 6900HS](https://www.amd.com/en/products/apu/amd-ryzen-9-6900hs) (8 cores 16 threads, 16MB L3 cache, @ 3.3GHz, up to 4.9 GHz)
-- GPU: [NVIDIA GeForce RTX 3060](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3060-3060ti) (Ampere GN20-E3, Max-P, 192 Bit)
-- RAM: 16GB (2 x 8GB) DDR5, 4800 MHz
-- SSD: 512GB M.2 NVMe PCIe Gen4
-- Display: 15.6", 16:9, 2K (2560 x 1440), 165Hz, DCI-P3 100%, 300 nits
+#### 💻 Laptop: [ROG Zephyrus G14 2022 (GA402RJ)](https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g14-2022-series/)
+- APU: [AMD Ryzen 7 6800HS](https://www.amd.com/en/products/apu/amd-ryzen-7-6800hs) (8 cores 16 threads, @ 3.2GHz, up to 4.7GHz, 16MB)
+- GPU: [AMD Radeon RX 6700S](https://www.amd.com/en/products/graphics/amd-radeon-rx-6700s) (Navi 22 - RDNA2, 8GB GDDR6, 128 Bit)
+- RAM: 16GB (8GB integrated + 8GB SO-DIMM) DDR5 4800MHz
+- SSD: 512GB M.2 NVMe PCIe 4.0 SSD
+- Display: 16:10, 2K+ (2560 x 1600), 500 nits, 120Hz, DCI-P3 100%
 
 #### 💻 Working environments
 [![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13)
