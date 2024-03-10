@@ -1,4 +1,4 @@
-## 👋 Hi there. It's your boi, masarou here!
+## 👋 Hi there. It's your lumxumboy here!
 
 - Studying 🏢: Currently a second year Information Technology student at Hoa Sen University
 - Current job 💼: Part-time cosplayer, reviewer
