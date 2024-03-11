@@ -32,18 +32,4 @@
 
 #### 📱 Devices in use
 [![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
-[![Samsung Galaxy S24 Ultra](https://img.shields.io/badge/Samsung_Galaxy_S24_Ultra-1428A0.svg?style=for-the-badge&logo=Samsung&logoColor=white)](https://www.samsung.com/sec/smartphones/galaxy-s24-ultra/)
-
----------------------------------------------------------------------------------------
-
-### 📫 Connect with me
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/masarou.nhatlam.92)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/masarou92)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/masarou92)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@masarou92)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/masarou.92/)
-
-### 💰 Donate me
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dreamfan92)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/masarou92)
-[![MoMo](https://img.shields.io/badge/MoMo-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://me.momo.vn/j8Iyubs6sVT2C3iRIXUW)
+[![iPhone 15](https://img.shields.io/badge/iPhone_15-000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/jp/iphone-15/)
