@@ -1,10 +1,10 @@
 ## 👋 Hi there. It's your lumxumboy here!
 
-- <b>Studying</b> 🏢: Currently a second year Information Technology student at Hoa Sen University
-- <b>Current job</b> 💼: Part-time cosplayer, reviewer
+- <b>Studying</b> 🏢: Currently a third year Information Technology student at Hoa Sen University
+- <b>Current job</b> 💼: Part-time cosplayer, gamer & tech reviewer (for sometimes)
 - <b>Project working</b> 🧑‍💻: Previously maintained <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S
-- <b>Ongoing</b> 🌱: A noobie learning about Linux kernel
-- <b>Games playing</b> 🕹️: Minecraft, Wuthering Waves, Genshin Impact, Honkai: Star Rail & Valorant (rarely)
+- <b>Ongoing</b> 🌱: Giong to Canada
+- <b>Games playing</b> 🕹️: Minecraft, Zenless Zone Zero, Genshin Impact, Honkai: Star Rail, Valorant (rarely) & <s>Wuthering Waves</s> (no more)
 - <b>Known programming languages</b> 🌟: C, C++, Python 3, Java, HTML5, Bash, CSS, JavaScript, PHP, XML
 - <b>Languages</b> 🌍: Vietnamese (mother lang) & English, on learning Japanese (mostly) & Indonesian (a bit, but not now)
 
