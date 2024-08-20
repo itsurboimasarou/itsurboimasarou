@@ -30,17 +30,17 @@
 - <b>PSU</b>: [MSI MAG A650BN](https://www.msi.com/Power-Supply/MAG-A650BN) 650W, 80 Plus Bronze
 - <b>Case</b>: [Jonsbo D300 White](https://www.jonsbo.com/en/products/D300White.html)
 
-#### 💻 Laptop: [ROG Zephyrus M16 2022 (GU603ZM)](https://rog.asus.com.cn/laptops/rog-zephyrus/rog-zephyrus-m16-2022-series/)
-- <b>CPU</b>: [Intel Core i7-12700H](https://www.intel.com/content/www/us/en/products/sku/132228/intel-core-i712700h-processor-24m-cache-up-to-4-70-ghz/specifications.html) (14 (6P + 8E) cores 20 threads, @ 3.5GHz, up to 4.7GHz, 24MB)
-- <b>GPU</b>: [NVIDIA GeForce RTX 3060](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3060-3060ti) (Ampere GN20-E3, up to 120W, Max-P, 192 bit)
-- <b>RAM</b>: 16GB (8GB integrated + 8GB SO-DIMM) DDR5 4800MHz
-- <b>SSD</b>: 512GB M.2 NVMe PCIe 4.0 SSD (Micron 3400)
-- <b>Display</b>: ROG Nebula Display, 16:10, 2K+ (2560 x 1600), 500 nits, 165Hz/3ms, Pantone® Validation, 100% DCI-P3 & Dolby Vision
+#### 💻 Laptop: MacBook Air 13 2022
+- <b>CPU</b>: Apple M2 (8 cores (4 high performace cores + 4 power efficiency cores), @ 3.5GHz, up to 4.7GHz, 16MB)
+- <b>RAM</b>: 16GB LPDDR5 3200MT/s
+- <b>SSD</b>: 512GB PCIe 4.0-based
+- <b>Display</b>: 13.6" Liquid Retina, 2560 x 1664, 60Hz, 500 nits
 
 #### 💻 Working environments
 [![Android 14](https://img.shields.io/badge/Android_14-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-14)
 [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
 [![Ubuntu 24.04 LTS](https://img.shields.io/badge/Ubuntu_24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/noble)
+[![macOS Sequoia (Beta)](https://img.shields.io/badge/macOS_Sequoia_(Beta)-FFFFFF?style=for-the-badge&logo=apple&logoColor=black)](https://www.apple.com/macos/macos-sequoia-preview/)
 
 #### 📱 Devices in use
 [![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
