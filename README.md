@@ -30,17 +30,17 @@
 - <b>PSU</b>: [MSI MAG A650BN](https://www.msi.com/Power-Supply/MAG-A650BN) 650W, 80 Plus Bronze
 - <b>Case</b>: [Jonsbo D300 White](https://www.jonsbo.com/en/products/D300White.html)
 
-#### 💻 Laptop: MacBook Air 13 2022
-- <b>CPU</b>: Apple M2 (8 cores (4 high performace cores + 4 power efficiency cores), @ 3.5GHz, up to 4.7GHz, 16MB)
-- <b>RAM</b>: 16GB LPDDR5 3200MT/s
-- <b>SSD</b>: 512GB PCIe 4.0-based
-- <b>Display</b>: 13.6" Liquid Retina, 2560 x 1664, 60Hz, 500 nits
+#### 💻 Laptop: Lenovo ThinkPad P14s Gen 3
+- <b>CPU</b>: AMD Ryzen 7 PRO 6850U (Zen 3+ Rembrandt, 8 cores 16 threads @ 2.7GHz, up to 4.7GHz, 16MB, max 28W TDP)
+- <b>GPU</b>: AMD Radeon 680M (RDNA2, up to 2200MHz, 50W)
+- <b>RAM</b>: 16GB LPDDR5 6400MT/s
+- <b>SSD</b>: 512GB Samsung PM9A1 M.2 NVMe PCIe 4.0
+- <b>Display</b>: 14.0" IPS Touch, 1920 x 1200, 60Hz, 300 nits
 
 #### 💻 Working environments
 [![Android 14](https://img.shields.io/badge/Android_14-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-14)
 [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
 [![Ubuntu 24.04 LTS](https://img.shields.io/badge/Ubuntu_24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/noble)
-[![macOS Sequoia (Beta)](https://img.shields.io/badge/macOS_Sequoia_(Beta)-FFFFFF?style=for-the-badge&logo=apple&logoColor=black)](https://www.apple.com/macos/macos-sequoia-preview/)
 
 #### 📱 Devices in use
 [![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
