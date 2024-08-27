@@ -30,7 +30,7 @@
 - <b>PSU</b>: [MSI MAG A650BN](https://www.msi.com/Power-Supply/MAG-A650BN) 650W, 80 Plus Bronze
 - <b>Case</b>: [Jonsbo D300 White](https://www.jonsbo.com/en/products/D300White.html)
 
-#### 💻 Laptop: Lenovo ThinkPad P14s Gen 3
+#### 💻 Laptop: [Lenovo ThinkPad P14s Gen 3](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadp/thinkpad-p14s-gen-3-14-inch-amd/len101t0048?srsltid=AfmBOoovqGBkI9PqvGBh70-BwajQTUOAFcxTo9E1tAM_-V9TeB7xoNW0)
 - <b>CPU</b>: AMD Ryzen 7 PRO 6850U (Zen 3+ Rembrandt, 8 cores 16 threads @ 2.7GHz, up to 4.7GHz, 16MB, max 28W TDP)
 - <b>GPU</b>: AMD Radeon 680M (RDNA2, up to 2200MHz, 50W)
 - <b>RAM</b>: 16GB LPDDR5 6400MT/s
@@ -39,7 +39,7 @@
 
 #### 💻 Working environments
 [![Android 14](https://img.shields.io/badge/Android_14-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-14)
-[![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
+[![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
 [![Ubuntu 24.04 LTS](https://img.shields.io/badge/Ubuntu_24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/noble)
 
 #### 📱 Devices in use
