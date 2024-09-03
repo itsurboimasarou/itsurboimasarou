@@ -40,7 +40,8 @@
 #### 💻 Working environments
 [![Android 14](https://img.shields.io/badge/Android_14-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-14)
 [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
-[![Ubuntu 24.04 LTS](https://img.shields.io/badge/Ubuntu_24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/noble)
+[![Ubuntu Server 24.04 LTS](https://img.shields.io/badge/Ubuntu_Server_24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/noble)
+[![Fedora 40](https://img.shields.io/badge/Fedora_40-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoramagazine.org/announcing-fedora-linux-40/)
 
 #### 📱 Devices in use
 [![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
