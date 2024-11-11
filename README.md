@@ -45,4 +45,4 @@
 
 #### 📱 Devices in use
 [![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
-[![Nothing Phone (2a)](https://img.shields.io/badge/Nothing-Phone-2a-000000.svg?style=for-the-badge)](https://intl.nothing.tech/pages/phone-2a)
+[![Nothing Phone (2a)](https://img.shields.io/badge/Nothing_Phone_(2a)-000000.svg?style=for-the-badge&logo=nothing&logoColor=ffffff)](https://intl.nothing.tech/pages/phone-2a)
