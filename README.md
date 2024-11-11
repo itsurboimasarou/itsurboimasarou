@@ -4,8 +4,8 @@
 - <b>Current job</b> 💼: Part-time cosplayer, gamer & tech reviewer (for sometimes)
 - <b>Project working</b> 🧑‍💻: Previously maintained <a href="https://github.com/PixelOS-AOSP">PixelOS</a> on Redmi K40S
 - <b>Ongoing</b> 🌱: Going to Canada
-- <b>Games playing</b> 🕹️: Minecraft, Zenless Zone Zero, Genshin Impact, Honkai: Star Rail, Valorant (rarely) & <s>Wuthering Waves</s> (no more)
-- <b>Known programming languages</b> 🌟: C, C++, Python 3, Java, HTML5, Bash, CSS, JavaScript, PHP, XML
+- <b>Games playing</b> 🕹️: (Rarely): Minecraft, Genshin Impact, Honkai: Star Rail & Valorant | (Mostly): Zenless Zone Zero, Wuthering Waves, Strinova
+- <b>Known programming languages</b> 🌟: C, C++, Python 3, Java, HTML5, Bash, CSS/SCSS, JavaScript/TypeScript, PHP, XML, Kotlin
 - <b>Languages</b> 🌍: Vietnamese (mother lang) & English, on learning Japanese (mostly) & Indonesian (a bit, but not now)
 
 ### ⚙️ GitHub stats
@@ -38,11 +38,11 @@
 - <b>Display</b>: 14.0" IPS Touch, 1920 x 1200, 60Hz, 300 nits
 
 #### 💻 Working environments
-[![Android 14](https://img.shields.io/badge/Android_14-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-14)
+[![Android 15](https://img.shields.io/badge/Android_15-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-15)
 [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
 [![Ubuntu Server 24.04 LTS](https://img.shields.io/badge/Ubuntu_Server_24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/noble)
-[![Fedora 40](https://img.shields.io/badge/Fedora_40-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoramagazine.org/announcing-fedora-linux-40/)
+[![Fedora 41](https://img.shields.io/badge/Fedora_40-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoramagazine.org/announcing-fedora-linux-41/)
 
 #### 📱 Devices in use
 [![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
-[![iPhone 15](https://img.shields.io/badge/iPhone_15-000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/jp/iphone-15/)
+[![Nothing Phone (2a)](https://img.shields.io/badge/Nothing-Phone-2a-000000.svg?style=for-the-badge)](https://intl.nothing.tech/pages/phone-2a)
