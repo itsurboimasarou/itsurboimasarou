@@ -45,4 +45,4 @@
 
 #### 📱 Devices in use
 [![Redmi K40S](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
-[![Nothing Phone (2a)](https://img.shields.io/badge/Nothing_Phone_(2a)-000000.svg?style=for-the-badge&logo=nothing&logoColor=ffffff)](https://intl.nothing.tech/pages/phone-2a)
+[![OPPO Reno11 5G](https://img.shields.io/badge/OPPO_Reno11_5G-217346.svg?style=for-the-badge&logo=oppo&logoColor=ffffff)](https://www.oppo.com/vn/smartphones/series-reno/reno11/)
