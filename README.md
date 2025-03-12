@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  Here comes the places that you would like to find more about me, feel free to check them out, but just not kanging my stuffs. There ain't much anything here except some stuffs about ROM building, which was my hobby as a student from Hoa Sen University.
+  Here comes the place that you would like to find more about me, feel free to check them out, but just not kanging my stuffs. There ain't much anything here except some stuffs about ROM building, which was my hobby as a student from Hoa Sen University.
 </p>
 
 <p align="center">
