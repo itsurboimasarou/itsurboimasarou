@@ -63,5 +63,6 @@
   [![Lenovo ThinkPad P14s Gen 3](https://img.shields.io/badge/Lenovo-ThinkPad_P14s_Gen_3-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white)](#)
   [![Google Pixel 7a (lynx)](https://img.shields.io/badge/Google_Pixel_7a-343434?style=for-the-badge&logo=google&logoColor=ffffff)](https://blog.google/products/pixel/pixel-7a-io-2023/)
   [![Redmi K40S (munch)](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
+  [![iPad mini 2](https://img.shields.io/badge/iPad_mini_2-000000?style=for-the-badge&logo=apple&logoColor=ffffff)](#)
 
 </div>
