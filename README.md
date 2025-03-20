@@ -54,7 +54,7 @@
   
 
   ### 🖥️ Working environments
-  [![Android 15](https://img.shields.io/badge/Android_15-32DE84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-15)
+  [![Android 16 Beta 3.1](https://img.shields.io/badge/Android_16_Beta_3.1-32DE84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/about/versions/16/release-notes)
   [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
   [![Ubuntu Server 24.04 LTS](https://img.shields.io/badge/Ubuntu_Server_24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/noble)
   [![Fedora 41](https://img.shields.io/badge/Fedora_41-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoramagazine.org/announcing-fedora-linux-41/)
