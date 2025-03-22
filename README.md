@@ -58,6 +58,7 @@
   [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
   [![Ubuntu Server 24.04 LTS](https://img.shields.io/badge/Ubuntu_Server_24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/noble)
   [![Fedora 41](https://img.shields.io/badge/Fedora_41-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoramagazine.org/announcing-fedora-linux-41/)
+  [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 
   ### 📱 Devices in use
   [![Lenovo ThinkPad P14s Gen 3](https://img.shields.io/badge/Lenovo-ThinkPad_P14s_Gen_3-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white)](#)
