@@ -65,5 +65,6 @@
   [![Google Pixel 7a (lynx)](https://img.shields.io/badge/Google_Pixel_7a-343434?style=for-the-badge&logo=google&logoColor=ffffff)](https://blog.google/products/pixel/pixel-7a-io-2023/)
   [![Redmi K40S (munch)](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
   [![iPad mini 2](https://img.shields.io/badge/iPad_mini_2-000000?style=for-the-badge&logo=apple&logoColor=ffffff)](#)
+  [![Samsung Galaxy J2 Prime (SM-G532G/DS)](https://img.shields.io/badge/Samsung_Galaxy_J2_Prime_(G532G/DS)-1D49C0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/vn/support/model/SM-G532GZDDXXV/)
 
 </div>
