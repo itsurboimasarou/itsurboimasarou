@@ -66,5 +66,6 @@
   [![Redmi K40S (munch)](https://img.shields.io/badge/Redmi_K40S-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik40s)
   [![iPad mini 2](https://img.shields.io/badge/iPad_mini_2-000000?style=for-the-badge&logo=apple&logoColor=ffffff)](#)
   [![Samsung Galaxy J2 Prime (SM-G532G/DS)](https://img.shields.io/badge/Samsung_Galaxy_J2_Prime_(G532G/DS)-1D49C0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/vn/support/model/SM-G532GZDDXXV/)
+  [![Samsung Galaxy J2 Pro (SM-G532G/DS)](https://img.shields.io/badge/Samsung_Galaxy_J2_Pro_(J250F/DS)-1D49C0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/vn/smartphones/others/galaxy-j2-pro-grand-prime-pro-gold-16gb-sm-j250fzddxxv/)
 
 </div>
