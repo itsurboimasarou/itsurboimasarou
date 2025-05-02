@@ -54,7 +54,7 @@
   
 
   ### 🖥️ Working environments
-  [![One UI 7](https://img.shields.io/badge/One_UI_7_(Android_15)-1D49C0?style=for-the-badge&logo=android&logoColor=white)](https://www.samsung.com/vn/one-ui/)
+  [![Android 15](https://img.shields.io/badge/Android_15-32DE84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/about/versions/15)
   [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
   [![Ubuntu Server 24.04 LTS](https://img.shields.io/badge/Ubuntu_Server_24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/noble)
   [![Fedora 41](https://img.shields.io/badge/Fedora_41-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoramagazine.org/announcing-fedora-linux-41/)
@@ -62,8 +62,7 @@
 
   ### 📱 Devices in use
   [![Lenovo ThinkPad P14s Gen 3](https://img.shields.io/badge/Lenovo-ThinkPad_P14s_Gen_3-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white)](#)
-  [![Samsung Galaxy A36 5G (SM-A366B/DS)](https://img.shields.io/badge/Samsung_Galaxy_A36_5G_(A366B/DS)-1D49C0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/vn/smartphones/galaxy-a/galaxy-a36-5g-awesome-lavender-128gb-sm-a366blvsxxv/)
-  [![Samsung Galaxy J2 Prime (SM-G532G/DS)](https://img.shields.io/badge/Samsung_Galaxy_J2_Prime_(G532G/DS)-1D49C0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/vn/support/model/SM-G532GZDDXXV/)
+  [![Google Pixel 7 (panther)](https://img.shields.io/badge/Google_Pixel_7-343434?style=for-the-badge&logo=google&logoColor=ffffff)](https://blog.google/products/pixel/pixel-7-pixel-7-pro/)
   [![Samsung Galaxy J2 Pro (SM-G532G/DS)](https://img.shields.io/badge/Samsung_Galaxy_J2_Pro_(J250F/DS)-1D49C0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/vn/smartphones/others/galaxy-j2-pro-grand-prime-pro-gold-16gb-sm-j250fzddxxv/)
   [![iPad mini 2](https://img.shields.io/badge/iPad_mini_2-000000?style=for-the-badge&logo=apple&logoColor=ffffff)](#)
 
