@@ -62,8 +62,7 @@
 
   ### 📱 Devices in use
   [![Lenovo ThinkPad P14s Gen 3](https://img.shields.io/badge/Lenovo-ThinkPad_P14s_Gen_3-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white)](#)
-  [![Google Pixel 7 (panther)](https://img.shields.io/badge/Google_Pixel_7-343434?style=for-the-badge&logo=google&logoColor=ffffff)](https://blog.google/products/pixel/pixel-7-pixel-7-pro/)
+  [![OnePlus 13T (PKX110)](https://img.shields.io/badge/OnePlus_13T_(PKX110)-ED1C24?style=for-the-badge&logo=OnePlus&logoColor=ffffff)](https://blog.google/products/pixel/pixel-7-pixel-7-pro/)
   [![Samsung Galaxy J2 Pro (SM-G532G/DS)](https://img.shields.io/badge/Samsung_Galaxy_J2_Pro_(J250F/DS)-1D49C0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/vn/smartphones/others/galaxy-j2-pro-grand-prime-pro-gold-16gb-sm-j250fzddxxv/)
-  [![iPad mini 2](https://img.shields.io/badge/iPad_mini_2-000000?style=for-the-badge&logo=apple&logoColor=ffffff)](#)
 
 </div>
