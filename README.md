@@ -54,15 +54,17 @@
   
 
   ### 🖥️ Working environments
-  [![Android 15](https://img.shields.io/badge/Android_15-32DE84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/about/versions/15)
+  [![Android 16](https://img.shields.io/badge/Android_16-3D8627?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/about/versions/16)
   [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
-  [![Ubuntu Server 24.04 LTS](https://img.shields.io/badge/Ubuntu_Server_24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/noble)
-  [![Fedora 41](https://img.shields.io/badge/Fedora_41-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoramagazine.org/announcing-fedora-linux-41/)
+  [![Debian 13](https://img.shields.io/badge/Debian_13-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/News/2025/20250809)
+  [![Fedora 42](https://img.shields.io/badge/Fedora_42-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoramagazine.org/announcing-fedora-linux-41/)
   [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+  [![Bazzite (Fedora Atomic 43)](https://img.shields.io/badge/Bazzite_(Fedora_Atomic_43)-611CB9?style=for-the-badge&logo=bazzite&logoColor=white)](https://bazzite.gg/)
 
   ### 📱 Devices in use
-  [![Lenovo ThinkPad P14s Gen 3](https://img.shields.io/badge/Lenovo-ThinkPad_P14s_Gen_3-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white)](#)
-  [![OPPO Reno13 Pro (PKK110)](https://img.shields.io/badge/OPPO_Reno13_Pro_(PKK110)-1EA366?style=for-the-badge&logo=oppo&logoColor=ffffff)](https://www.oppo.com/cn/smartphones/series-reno/reno13-pro/)
-  [![Samsung Galaxy J2 Pro (SM-G532G/DS)](https://img.shields.io/badge/Samsung_Galaxy_J2_Pro_(J250F/DS)-1D49C0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/vn/smartphones/others/galaxy-j2-pro-grand-prime-pro-gold-16gb-sm-j250fzddxxv/)
+  [![Lenovo XiaoXin 14c AHP10](https://img.shields.io/badge/Lenovo-XiaoXin_14c_(AHP10)-064A89?style=for-the-badge&logo=lenovo&logoColor=white)](#)
+  [![Google Pixel 7a](https://img.shields.io/badge/Google_Pixel_7a-0B57D0?style=for-the-badge&logo=google&logoColor=ffffff)]()
+  [![Samsung Galaxy S25 (SM-S931B/DS)](https://img.shields.io/badge/Samsung_Galaxy_S25_(S931B/DS)-1D49C0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/vn/smartphones/galaxy-s25/)
+  [![Samsung Galaxy J2 Pro (SM-J250F/DS)](https://img.shields.io/badge/Samsung_Galaxy_J2_Pro_(J250F/DS)-1D49C0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/vn/smartphones/others/galaxy-j2-pro-grand-prime-pro-gold-16gb-sm-j250fzddxxv/)
 
 </div>
