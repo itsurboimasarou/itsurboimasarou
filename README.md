@@ -63,8 +63,7 @@
 
   ### 📱 Devices in use
   [![Lenovo XiaoXin 14c AHP10](https://img.shields.io/badge/Lenovo-XiaoXin_14c_(AHP10)-064A89?style=for-the-badge&logo=lenovo&logoColor=white)](#)
-  [![Google Pixel 7a](https://img.shields.io/badge/Google_Pixel_7a-0B57D0?style=for-the-badge&logo=google&logoColor=ffffff)]()
-  [![Samsung Galaxy S25 (SM-S931B/DS)](https://img.shields.io/badge/Samsung_Galaxy_S25_(S931B/DS)-1D49C0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/vn/smartphones/galaxy-s25/)
+  [![Samsung Galaxy A36 (SM-A366B/DS)](https://img.shields.io/badge/Samsung_Galaxy_A36_(A366B/DS)-1D49C0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/vn/smartphones/galaxy-a/galaxy-a36-5g-awesome-lavender-128gb-sm-a366blvsxxv/)
   [![Samsung Galaxy J2 Pro (SM-J250F/DS)](https://img.shields.io/badge/Samsung_Galaxy_J2_Pro_(J250F/DS)-1D49C0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/vn/smartphones/others/galaxy-j2-pro-grand-prime-pro-gold-16gb-sm-j250fzddxxv/)
 
 </div>
