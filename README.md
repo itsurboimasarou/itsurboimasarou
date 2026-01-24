@@ -55,15 +55,16 @@
 
   ### 🖥️ Working environments
   [![Android 16](https://img.shields.io/badge/Android_16-3D8627?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/about/versions/16)
-  [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
+  [![iOS 26](https://img.shields.io/badge/iOS_26-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/os/ios/)
+  [![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
   [![Debian 13](https://img.shields.io/badge/Debian_13-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/News/2025/20250809)
-  [![Fedora 42](https://img.shields.io/badge/Fedora_42-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoramagazine.org/announcing-fedora-linux-41/)
+  [![Fedora 43](https://img.shields.io/badge/Fedora_43-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoramagazine.org/announcing-fedora-linux-43/)
   [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-  [![Bazzite (Fedora Atomic 43)](https://img.shields.io/badge/Bazzite_(Fedora_Atomic_43)-611CB9?style=for-the-badge&logo=bazzite&logoColor=white)](https://bazzite.gg/)
+  [![macOS Tahoe](https://img.shields.io/badge/macOS-Tahoe-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/os/macos/)
 
   ### 📱 Devices in use
-  [![Lenovo XiaoXin 14c AHP10](https://img.shields.io/badge/Lenovo-XiaoXin_14c_(AHP10)-064A89?style=for-the-badge&logo=lenovo&logoColor=white)](#)
-  [![Samsung Galaxy A36 (SM-A366B/DS)](https://img.shields.io/badge/Samsung_Galaxy_A36_(A366B/DS)-1D49C0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/vn/smartphones/galaxy-a/galaxy-a36-5g-awesome-lavender-128gb-sm-a366blvsxxv/)
-  [![Samsung Galaxy J2 Pro (SM-J250F/DS)](https://img.shields.io/badge/Samsung_Galaxy_J2_Pro_(J250F/DS)-1D49C0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/vn/smartphones/others/galaxy-j2-pro-grand-prime-pro-gold-16gb-sm-j250fzddxxv/)
+  [![MacBook Pro M5 14-inch](https://img.shields.io/badge/MacBook_Pro_M5_(14)-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macbook-pro/)
+  [![iPhone 16 Pro](https://img.shields.io/badge/iPhone_16_Pro-000000?style=for-the-badge&logo=apple&logoColor=white)](https://support.apple.com/en-vn/121031)
+  [![Google Pixel 8a](https://img.shields.io/badge/Google_Pixel_8a-1D49C0?style=for-the-badge&logo=google&logoColor=white)](https://store.google.com/jp/product/pixel_8a?hl=ja)
 
 </div>
