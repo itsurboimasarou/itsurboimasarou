@@ -64,7 +64,7 @@
 
   ### 📱 Devices in use
   [![MacBook Pro M5 14-inch](https://img.shields.io/badge/MacBook_Pro_M5_(14)-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macbook-pro/)
-  [![iPhone 16 Pro](https://img.shields.io/badge/iPhone_16_Pro-000000?style=for-the-badge&logo=apple&logoColor=white)](https://support.apple.com/en-vn/121031)
+  [![iPhone 16](https://img.shields.io/badge/iPhone_16-000000?style=for-the-badge&logo=apple&logoColor=white)](https://support.apple.com/en-vn/121029)
   [![Google Pixel 8a](https://img.shields.io/badge/Google_Pixel_8a-1D49C0?style=for-the-badge&logo=google&logoColor=white)](https://store.google.com/jp/product/pixel_8a?hl=ja)
 
 </div>
