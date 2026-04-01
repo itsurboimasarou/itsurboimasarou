@@ -54,7 +54,7 @@
   ### 📱 Devices in use:
   [![Mac mini M4](https://img.shields.io/badge/Mac_mini_M4-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/mac-mini/)
   [![Xiaomi 15T](https://img.shields.io/badge/Xiaomi_15T-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)](https://www.mi.com/vn/product/xiaomi-15t/)
-  [![HP ZBook 8 G1a](https://img.shields.io/badge/HP-ZBook_8_G1a-024AD8?style=for-the-badge&logo=hp&logoColor=white)](https://www.hp.com/us-en/workstations/zbook-8-a.html)
+  [![HP ZBook 8 G1a](https://img.shields.io/badge/HP-EliteBook_6_G1a-024AD8?style=for-the-badge&logo=hp&logoColor=white)](https://www.hp.com/us-en/workstations/zbook-8-a.html)
   [![Sharp AQUOS R8](https://img.shields.io/badge/Sharp-AQUOS_R8-E6000D?style=for-the-badge&logo=sharp&logoColor=white)](https://www.docomo.ne.jp/support/product/sh52d/index.html)
 
 </div>
