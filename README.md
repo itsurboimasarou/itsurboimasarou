@@ -46,6 +46,7 @@
   [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 
   ### 🖥️ Working environments:
+  [![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logoColor=white)](#)
   [![Fedora 43](https://img.shields.io/badge/Fedora_43-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoramagazine.org/announcing-fedora-linux-43/)
   [![Android 16](https://img.shields.io/badge/Android_16-3D8627?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/about/versions/16)
   [![iOS 26](https://img.shields.io/badge/iOS_26-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/os/ios/)
@@ -53,8 +54,8 @@
 
   ### 📱 Devices in use:
   [![Mac mini M4](https://img.shields.io/badge/Mac_mini_M4-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/mac-mini/)
-  [![iPhone 16](https://img.shields.io/badge/iPhone_16-000000?style=for-the-badge&logo=apple&logoColor=white)](https://support.apple.com/en-vn/121029)
-  [![Lenovo Xiaoxin 14c (AHP10)](https://img.shields.io/badge/Lenovo-Xiaoxin_14c_(AHP10)-E2232A?style=for-the-badge&logo=lenovo&logoColor=white)](#)
+  [![Xiaomi 15T](https://img.shields.io/badge/Xiaomi_15T-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)](https://www.mi.com/vn/product/xiaomi-15t/)
+  [![HP ZBook 8 G1a](https://img.shields.io/badge/HP-ZBook_8_G1a-024AD8?style=for-the-badge&logo=hp&logoColor=white)](#)
   [![Sharp AQUOS R8](https://img.shields.io/badge/Sharp-AQUOS_R8-E6000D?style=for-the-badge&logo=sharp&logoColor=white)](https://www.docomo.ne.jp/support/product/sh52d/index.html)
 
 </div>
