@@ -7,7 +7,7 @@
 </h3>
 
 <p align="left">
-  Here comes the place that you would like to find more about me, feel free to check out my repositorie but just please don't kang my stuff without credit! There's a mix of projects here, including some work from my free-time hobby of Android ROM building.
+  Here comes the place that you would like to find more about me, feel free to check out my repositories but just please don't kang my stuff without credit! There's a mix of projects here, including some work from my free-time hobby of Android ROM building.
 
   🔗 <a href="https://itsurboimasarou.carrd.co/">Everything you want to knew about me, check it here</a>
   
