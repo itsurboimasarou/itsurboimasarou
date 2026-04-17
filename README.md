@@ -51,7 +51,7 @@
   [![Android 16](https://img.shields.io/badge/Android_16-34A853?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/about/versions/16)
 
   ### 📱 Devices in use:
-  [![HP ZBook 8 G1a](https://img.shields.io/badge/HP-EliteBook_6_G1a-024AD8?style=for-the-badge&logo=hp&logoColor=white)](https://www.hp.com/us-en/workstations/zbook-8-a.html)
+  [![Lenovo ThinkBook 14 G7+ AHP](https://img.shields.io/badge/Lenovo-ThinkBook_14_G7+_AHP-E60012?style=for-the-badge&logo=lenovo&logoColor=white)](https://b.lenovo.com.cn/product/1046089.html?filter=1132%3A7946%401135%3A7967%401133%3A7953&recommendType=0&plat=1&innerKey=&key=ThinkBook+14)
   [![Xiaomi 15](https://img.shields.io/badge/Xiaomi_15-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)](https://www.mi.com/vn/product/xiaomi-15/)
   [![Google Pixel 10a](https://img.shields.io/badge/Google_Pixel_10a-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://store.google.com/jp/product/pixel_10a?hl=ja)
 
