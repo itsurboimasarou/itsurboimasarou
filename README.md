@@ -53,6 +53,6 @@
   ### 📱 Devices in use:
   [![Lenovo ThinkBook 14 G7+ AHP](https://img.shields.io/badge/Lenovo-ThinkBook_14_G7+_AHP-E60012?style=for-the-badge&logo=lenovo&logoColor=white)](https://b.lenovo.com.cn/product/1046089.html?filter=1132%3A7946%401135%3A7967%401133%3A7953&recommendType=0&plat=1&innerKey=&key=ThinkBook+14)
   [![Xiaomi 15](https://img.shields.io/badge/Xiaomi_15-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)](https://www.mi.com/vn/product/xiaomi-15/)
-  [![Google Pixel 10a](https://img.shields.io/badge/Google_Pixel_10a-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://store.google.com/jp/product/pixel_10a?hl=ja)
+  [![Samsung Galaxy S25 FE](https://img.shields.io/badge/Samsung_Galaxy_S25_FE-1428A0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/vn/smartphones/galaxy-s/galaxy-s25-fe-icyblue-128gb-sm-s731blbbxxv/)
 
 </div>
